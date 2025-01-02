@@ -1,10 +1,10 @@
 # Auto Love Button
 
-Auto Love Button adalah ekstensi Chrome yang secara otomatis mengklik tombol love dengan delay yang dapat diatur.
+Auto Love Button adalah ekstensi Chrome yang secara otomatis mengklik tombol love pada live streaming TikTok. Ekstensi ini dibuat untuk membantu meningkatkan jumlah love pada live streaming TikTok yang Anda tonton.
 
 ## Fitur
 
-- Klik otomatis tombol love pada halaman web.
+- Klik otomatis tombol love pada live streaming TikTok.
 - Pengaturan delay klik yang dapat disesuaikan.
 - Tombol Start dan Stop untuk mengontrol klik otomatis.
 
@@ -17,7 +17,7 @@ Auto Love Button adalah ekstensi Chrome yang secara otomatis mengklik tombol lov
 
 ## Penggunaan
 
-1. Buka halaman web yang memiliki tombol love.
+1. Buka halaman tikok live streaming yang ingin Anda klik otomatis tombol love-nya.
 2. Klik ikon ekstensi Auto Love Button di toolbar Chrome.
 3. Masukkan delay (dalam milidetik) pada input yang tersedia.
 4. Klik tombol "Start" untuk memulai klik otomatis.
