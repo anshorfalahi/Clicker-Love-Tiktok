@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Love Button",
+    "version": "1.5",
+    "description": "Ekstensi Chrome untuk klik otomatis tombol love dengan delay yang dapat diatur.",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
+  
