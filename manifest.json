@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Auto Love Button Clicker",
     "version": "1.5",
-    "description": "Ekstensi Chrome untuk mengklik tombol love pada live streaming tiktok secara otomatis dengan interval tertentu",
+    "description": "Chrome extension to click the love button on TikTok live streaming automatically at certain intervals",
     "permissions": ["scripting", "activeTab"],
     "host_permissions": ["<all_urls>"],
     "action": {
